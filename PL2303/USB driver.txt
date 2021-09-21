@@ -1,7 +1,0 @@
-PL2303HX driver installation detail
-1. To put on PL2303 drive (first don't pick up any line), if you install the driver before connected to the USB line or turn serial line, drive will not be able to install successful, it is important to drive or delete to restart the system reinstall again drive the.
-Note: please follow according to your operating system to choose the appropriate driver
-For the installation process to XP system for example:
-Double click the disc PL2303 drive disc path: \ commonly used software, PL2303 turn serial line drive
-...
-Note: loading driver can't turn USB serial port module inserted into the computer, pack good to put into the USB port, this is very important.
